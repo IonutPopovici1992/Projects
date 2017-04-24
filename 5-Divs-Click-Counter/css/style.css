@@ -1,0 +1,25 @@
+body {
+	font-size: 80%;
+}
+
+.container {
+	background-color: #ADD8E6;
+	border-radius: 10px;
+	height: 200px;
+	margin: 25px auto;
+	width: 1000px;
+}
+
+main {
+	
+}
+
+main div {
+	background-color: #610000;
+	border-radius: 10px;
+	color: #FFFFFF;
+	float: left;
+	height: 180px;
+	margin: 10px;
+	width: 180px;
+}
